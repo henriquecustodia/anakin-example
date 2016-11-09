@@ -21,7 +21,7 @@ This repository is just a showcase for Anakin module
  ```
 
  The response will be: 
- ```json
+ ```javascript
     { message: 'Hello henrique!' }
  ```
 
