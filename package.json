@@ -1,0 +1,23 @@
+{
+  "name": "anakin-example",
+  "version": "1.0.0",
+  "description": "This repository is just a showcase for Anakin module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquecustodia/anakin-example.git"
+  },
+  "author": "Henrique Custódia <martinshenrique8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquecustodia/anakin-example/issues"
+  },
+  "homepage": "https://github.com/henriquecustodia/anakin-example#readme",
+  "dependencies": {
+    "anakin": "^0.1.0",
+    "express": "^4.14.0"
+  }
+}
